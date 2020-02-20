@@ -809,8 +809,8 @@ div#ojAppNav2 ul.oj-navigationlist-element {
 }
 .dash-photo-circular {
     border-radius: 83px;
-    height: 156px;
-    width: 156px;
+    height: 240px;
+    width: 200px;
     border: 5px solid #ffffff;
 }
 #MyNotifications .tcrow .theadcount span.approveicon, #MyNotifications .tcrow .tnewhire span.waitingicon, #MyNotifications .tcrow .ttermin span.rejectedicon {
